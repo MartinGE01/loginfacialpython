@@ -1,0 +1,1 @@
+crear un base de datos con el nombre de "loginfacial" utilizar xampp  mysql
